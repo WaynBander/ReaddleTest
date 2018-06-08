@@ -1,0 +1,13 @@
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\bin\Debug\ReaddleTestTask.exe.config
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\bin\Debug\ReaddleTestTask.exe
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\bin\Debug\ReaddleTestTask.pdb
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\bin\Debug\Newtonsoft.Json.dll
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\bin\Debug\Newtonsoft.Json.xml
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\obj\Debug\ReaddleTestTask.csprojResolveAssemblyReference.cache
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\obj\Debug\ReaddleTestTask.Form1.resources
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\obj\Debug\ReaddleTestTask.Properties.Resources.resources
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\obj\Debug\ReaddleTestTask.csproj.GenerateResource.cache
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\obj\Debug\ReaddleTestTask.csproj.CoreCompileInputs.cache
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\obj\Debug\ReaddleTestTask.csproj.CopyComplete
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\obj\Debug\ReaddleTestTask.exe
+C:\Users\WaynB\Documents\Visual Studio 2017\Projects\ReaddleTestTask\ReaddleTestTask\obj\Debug\ReaddleTestTask.pdb
